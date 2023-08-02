@@ -11,12 +11,12 @@ My goal was to learn about the main data structures and how to implement them.
 
 ## Learned Content
 
-1. Introduction to C language
-  a. Variables and data types
-  b. conditional structures
-  c. Loops of Repetition
-  d. Functions
-  e. Vectors and Matrices
+1. Introduction to C language <br>
+  a. Variables and data types <br>
+  b. conditional structures <br>
+  c. Loops of Repetition <br>
+  d. Functions <br>
+  e. Vectors and Matrices <br>
 2. Pointers
 3. Structures
 4. Dynamic allocation
