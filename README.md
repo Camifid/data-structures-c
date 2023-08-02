@@ -1,8 +1,7 @@
 <h1>
   <img src="./img/Data.png">
-  <p>legenda</p>
 </h1>
 
-# data-structures-c
 ## About
-Data structures course in C language from Udemy.
+This repository is about Udemy's C data structures course. I performed it in 2023 fully online. 
+My goal was to learn about the main data structures and how to implement them.
