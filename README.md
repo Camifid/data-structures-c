@@ -5,3 +5,6 @@
 ## About
 This repository is about Udemy's C data structures course. I performed it in 2023 fully online. 
 My goal was to learn about the main data structures and how to implement them.
+
+## Tools
+- [C](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
