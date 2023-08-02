@@ -8,8 +8,9 @@ My goal was to learn about the main data structures and how to implement them.
 
 ## Tools
 <h1>
-<img src="./img="linguagemC.png">
+  <img src="./linguagemC.png" alt="Logo da Linguagem C">
 </h1>
+
 
 ## Learned Content
 
