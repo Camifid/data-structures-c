@@ -7,4 +7,5 @@ This repository is about Udemy's C data structures course. I performed it in 202
 My goal was to learn about the main data structures and how to implement them.
 
 ## Tools
-- [C](https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170)
+- C ![image](https://github.com/Camifid/data-structures-c/assets/109491441/be6010e1-0905-47f2-8059-9e6c0a2c4fde)
+
