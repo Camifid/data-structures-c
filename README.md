@@ -7,7 +7,8 @@ This repository is about Udemy's C data structures course. I performed it in 202
 My goal was to learn about the main data structures and how to implement them.
 
 ## Tools
-- C 
+ <img src="./img="linguagemC.png" alt="Logo da linguagem C" width="300" height="200">
+
 
 ## Learned Content
 
