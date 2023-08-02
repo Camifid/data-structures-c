@@ -6,7 +6,7 @@
 This repository is about Udemy's C data structures course. I performed it in 2023 fully online. 
 My goal was to learn about the main data structures and how to implement them.
 
-## Tools
+## Languages and Tools
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
 
