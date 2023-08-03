@@ -5,7 +5,8 @@ float num = 2.3;
 double d = 4.6;
 char ch = 't';
 
-	int main(void) {
+int main(void) {
+
 printf("O valor da variável 'a' é: %d\n",a);
 printf("O valor da variável 'num' é: %.1f\n", num);	
 printf("O valor da variável 'd' é: %.1f\n", d);
