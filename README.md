@@ -1,5 +1,5 @@
 <h1>
-  <img src="./img/Data1.png">
+  <img src="./img/Data.png">
 </h1>
 
 ## About
