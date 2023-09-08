@@ -26,4 +26,4 @@ Teacher: Leonardo de Abreu Schmidt.
 6. Recursion
 7. Trees
 
-[CertificadoUdemy_AED.pdf](https://github.com/Camifid/data-structures-c/files/12555400/CertificadoUdemy_AED.pdf)
+[Certificado de Conclusão](https://github.com/Camifid/data-structures-c/files/12555400/CertificadoUdemy_AED.pdf)
