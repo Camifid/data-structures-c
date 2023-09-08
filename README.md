@@ -25,3 +25,5 @@ Teacher: Leonardo de Abreu Schmidt.
 5. Lists, queues and stacks
 6. Recursion
 7. Trees
+
+[CertificadoUdemy_AED.pdf](https://github.com/Camifid/data-structures-c/files/12555400/CertificadoUdemy_AED.pdf)
